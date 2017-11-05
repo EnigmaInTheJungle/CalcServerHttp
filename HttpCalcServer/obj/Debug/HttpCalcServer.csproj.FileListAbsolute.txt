@@ -1,0 +1,7 @@
+D:\С#1708\Servers\HttpCalcServer\HttpCalcServer\bin\Debug\HttpCalcServer.exe.config
+D:\С#1708\Servers\HttpCalcServer\HttpCalcServer\bin\Debug\HttpCalcServer.exe
+D:\С#1708\Servers\HttpCalcServer\HttpCalcServer\bin\Debug\HttpCalcServer.pdb
+D:\С#1708\Servers\HttpCalcServer\HttpCalcServer\obj\Debug\HttpCalcServer.csprojResolveAssemblyReference.cache
+D:\С#1708\Servers\HttpCalcServer\HttpCalcServer\obj\Debug\HttpCalcServer.csproj.CoreCompileInputs.cache
+D:\С#1708\Servers\HttpCalcServer\HttpCalcServer\obj\Debug\HttpCalcServer.exe
+D:\С#1708\Servers\HttpCalcServer\HttpCalcServer\obj\Debug\HttpCalcServer.pdb
